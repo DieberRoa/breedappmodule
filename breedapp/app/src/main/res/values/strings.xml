@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">demojenkinsapp</string>
+    <string name="title_activity_breeds">BreedsActivity</string>
+</resources>
